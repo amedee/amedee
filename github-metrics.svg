@@ -1663,6 +1663,12 @@ Another workaround mentioned there is for Oxygen, edit the normally already exis
                                             </svg>
                                             artifactory, chocolatey
                                         </div>
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path fill-rule="evenodd" d="M8 16A8 8 0 108 0a8 8 0 000 16zm3.78-9.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
+                                            </svg>
+                                            Resolved
+                                        </div>
                                     </div>
                                     <div class="body markdown">
                                         Artifactory version: 6.16.2 rev 61602900, Artifactory Pro license.
@@ -2343,7 +2349,7 @@ Getting image for request {ExecutableUsers: [],Filters: [],ImageIds: [ami-0293c4
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 May 2022, 13:16:29  with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 27 May 2022, 14:03:54  with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
