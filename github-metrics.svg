@@ -1979,7 +1979,7 @@ I'm terribly ashamed for asking an opinion-based question, so I would really, re
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.40m out of 95m users</span>
+                                    <span class="gh">ranked 1.41m out of 95m users</span>
                                 </div>
                                 <div class="text">Published 26 public repositories</div>
                             </div>
@@ -2289,7 +2289,7 @@ I'm terribly ashamed for asking an opinion-based question, so I would really, re
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Aug 2022, 01:33:33  with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 7 Aug 2022, 02:46:01  with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
