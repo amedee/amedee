@@ -2585,7 +2585,7 @@ How can I let Jenkins wait until the branch indexing of the Multibranch Pipeline
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 171k out of 114m users</span>
+                                    <span class="gh">ranked 183k out of 114m users</span>
                                 </div>
                                 <div class="text">Followed by 54 users</div>
                             </div>
@@ -2771,7 +2771,7 @@ How can I let Jenkins wait until the branch indexing of the Multibranch Pipeline
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Apr 2023, 21:03:48 (timezone Europe/Brussels) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 Apr 2023, 22:04:26 (timezone Europe/Brussels) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
