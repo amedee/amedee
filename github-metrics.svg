@@ -2704,7 +2704,7 @@ How do I get git blame information on Sonarqube?
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 185k out of 119m users</span>
+                                    <span class="gh">ranked 198k out of 119m users</span>
                                 </div>
                                 <div class="text">Followed by 55 users</div>
                             </div>
@@ -2890,7 +2890,7 @@ How do I get git blame information on Sonarqube?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Sept 2023, 20:04:27 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Sept 2023, 21:03:51 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
