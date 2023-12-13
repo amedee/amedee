@@ -2933,7 +2933,7 @@ I would appreciate other speed improvements that make it go faster more than jus
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.71m out of 126m users</span>
+                                    <span class="gh">ranked 2.71m out of 125m users</span>
                                 </div>
                                 <div class="text">Published 20 public repositories</div>
                             </div>
@@ -3089,7 +3089,7 @@ I would appreciate other speed improvements that make it go faster more than jus
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 206k out of 126m users</span>
+                                    <span class="gh">ranked 206k out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 55 users</div>
                             </div>
@@ -3275,7 +3275,7 @@ I would appreciate other speed improvements that make it go faster more than jus
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Dec 2023, 08:04:02 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Dec 2023, 09:04:21 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
