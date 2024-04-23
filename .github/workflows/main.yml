@@ -1,22 +1,28 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [ { cron: "0 0 * * *" } ]
   # Run workflow manually
   workflow_dispatch:
   # Run workflow when pushing on main
   push:
     branches:
       - main
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
+    environment:
       name: production
     permissions:
+      actions: write
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Brussels
@@ -40,3 +46,10 @@ jobs:
           plugin_stackoverflow_user: 766786
           plugin_rss: yes
           plugin_rss_source: https://amedee.be/feed/
+      - name: Delete old workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 30
+          keep_minimum_runs: 6
