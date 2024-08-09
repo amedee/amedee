@@ -1,0 +1,28 @@
+---
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '0 0 * * 1' # Runs weekly on Monday
+  workflow_dispatch: # Run workflow manually
+  push:
+    branches:
+      - main
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in amedee.be posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://amedee.be/feed/"
+          committer_username: "Amedee Van Gasse"
+          committer_email: "amedee-github@amedee.be"
