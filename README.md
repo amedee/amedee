@@ -66,20 +66,8 @@ This is the place where I opensource stuff and break things 🤣
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
 [![Amedee's GitHub stats](https://github-readme-stats.vercel.app/api?username=amedee&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-</details>
-
-<details>
-  <summary>:zap: Top Languages</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amedee&show_icons=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</details>
-
-<details>
-  <summary>:zap: Metrics</summary>
 
 ![Metrics](github-metrics.svg)
-</details>
