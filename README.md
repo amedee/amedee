@@ -55,11 +55,11 @@ This is the place where I opensource stuff and break things 🤣
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Benchmarking USB Drives with Shell Scripts – Part 1: Why I Built a Benchmark Script](https://amedee.be/benchmarking-usb-drives-with-shell-scripts-part-1-why-i-built-a-benchmark-script/)
+- [I’m starting with Advent of Code &lpar;again&rpar;](https://amedee.be/im-starting-with-advent-of-code-again/)
 - [New blog layout](https://amedee.be/new-blog-layout/)
+- [Why I’m not happy with my Fitbit](https://amedee.be/why-im-not-happy-with-my-fitbit/)
 - [Find the Windows 11 product key using Linux](https://amedee.be/find-the-windows-11-product-key-using-linux/)
-- [Unboxing the Ghent box &lpar;video in Dutch&rpar;](https://amedee.be/unboxing-the-ghent-box-video-in-dutch/)
-- [Convert ODT to PDF with Pandoc and LaTeX](https://amedee.be/convert-odt-to-pdf-with-pandoc-and-latex/)
-- [Suspending cloud backup of a NAS that cannot be reached](https://amedee.be/cloud-backup-of-my-nas/)
 <!-- BLOG-POST-LIST:END -->
 
 - [more blog posts...](https://amedee.be)
