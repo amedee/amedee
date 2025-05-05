@@ -55,11 +55,11 @@ This is the place where I opensource stuff and break things 🤣
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You can now follow my blog from the Fediverse!](https://amedee.be/you-can-now-follow-my-blog-from-the-fediverse/)
 - [Automating My Server Management with Ansible and GitHub Actions](https://amedee.be/automating-my-server-management-with-ansible-and-github-actions/)
 - [Benchmarking USB Drives with Shell Scripts – Part 2: Evolving the Script with ChatGPT](https://amedee.be/benchmarking-usb-drives-with-shell-scripts-part-2-evolving-the-script-with-chatgpt/)
 - [Benchmarking USB Drives with Shell Scripts – Part 1: Why I Built a Benchmark Script](https://amedee.be/benchmarking-usb-drives-with-shell-scripts-part-1-why-i-built-a-benchmark-script/)
 - [I’m starting with Advent of Code &lpar;again&rpar;](https://amedee.be/im-starting-with-advent-of-code-again/)
-- [New blog layout](https://amedee.be/new-blog-layout/)
 <!-- BLOG-POST-LIST:END -->
 
 - [more blog posts...](https://amedee.be)
