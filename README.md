@@ -55,11 +55,11 @@ This is the place where I opensource stuff and break things 🤣
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🎥 Automating Git Repository Visualizations with GitHub Actions and Gource](https://amedee.be/%f0%9f%8e%a5-automating-git-repository-visualizations-with-github-actions-and-gource/)
 - [🎻 Spring Tunes: Three Inspiring Music Courses I Attended This Season](https://amedee.be/%f0%9f%8e%bb-spring-tunes-three-inspiring-music-courses-i-attended-this-season/)
 - [📚 Automating Ansible Role Documentation with GitHub Actions and AI](https://amedee.be/%f0%9f%93%9a-automating-ansible-role-documentation-with-github-actions-and-ai/)
 - [🤔 “Wasn’t /dev/null Good Enough?” — Understanding the Difference Between /dev/null and /dev/zero](https://amedee.be/%f0%9f%a4%94-wasnt-dev-null-good-enough-understanding-the-difference-between-dev-null-and-dev-zero/)
 - [🐧 Falling Down the /dev Rabbit Hole: From Secure Deletion to /dev/scream](https://amedee.be/%f0%9f%90%a7-falling-down-the-dev-rabbit-hole-from-secure-deletion-to-dev-scream/)
-- [You can now follow my blog from the Fediverse!](https://amedee.be/you-can-now-follow-my-blog-from-the-fediverse/)
 <!-- BLOG-POST-LIST:END -->
 
 - [more blog posts...](https://amedee.be)
