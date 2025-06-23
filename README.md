@@ -55,11 +55,11 @@ This is the place where I opensource stuff and break things 🤣
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Samenwonen in Gent? Wij starten een nieuwe cohousing en zoeken nog iemand!](https://amedee.be/samenwonen-in-gent-wij-starten-een-nieuwe-cohousing-en-zoeken-nog-iemand/)
+- [Looking for a housemate in Ghent – Join our new cohousing!](https://amedee.be/looking-for-a-housemate-in-ghent-join-our-new-cohousing/)
+- [📰 Featured by Sibelga and Passwerk: When Being Different Becomes a Strength](https://amedee.be/%f0%9f%93%b0-featured-by-sibelga-and-passwerk-when-being-different-becomes-a-strength/)
+- [🚗 French Road Trip to Balilas: From Ghent to Janzé with Strangers Turned Friends](https://amedee.be/%f0%9f%9a%97-french-road-trip-to-balilas-from-ghent-to-janze-with-strangers-turned-friends/)
 - [🎥 Automating Git Repository Visualizations with GitHub Actions and Gource](https://amedee.be/%f0%9f%8e%a5-automating-git-repository-visualizations-with-github-actions-and-gource/)
-- [🎻 Spring Tunes: Three Inspiring Music Courses I Attended This Season](https://amedee.be/%f0%9f%8e%bb-spring-tunes-three-inspiring-music-courses-i-attended-this-season/)
-- [📚 Automating Ansible Role Documentation with GitHub Actions and AI](https://amedee.be/%f0%9f%93%9a-automating-ansible-role-documentation-with-github-actions-and-ai/)
-- [🤔 “Wasn’t /dev/null Good Enough?” — Understanding the Difference Between /dev/null and /dev/zero](https://amedee.be/%f0%9f%a4%94-wasnt-dev-null-good-enough-understanding-the-difference-between-dev-null-and-dev-zero/)
-- [🐧 Falling Down the /dev Rabbit Hole: From Secure Deletion to /dev/scream](https://amedee.be/%f0%9f%90%a7-falling-down-the-dev-rabbit-hole-from-secure-deletion-to-dev-scream/)
 <!-- BLOG-POST-LIST:END -->
 
 - [more blog posts...](https://amedee.be)
