@@ -1,13 +1,15 @@
-### Hi there, I'm Amedee 👋
+### Amedee's Code Cauldron 🔮
 
-This is the place where I opensource stuff and break things 🤣
+**Amedee's Code Cauldron 🔮** is a bubbling brew of open source projects, scripts, and experiments — ranging from Ansible automation and Bash wizardry to GitHub Actions, Python tooling, and Kotlin puzzles (especially during Advent of Code).
 
-- 🔭 I’m currently working on configuring my servers using Ansible 😉
-- 🌱 I’m currently learning Ansible, Kotlin 
+I regularly write blog posts at https://amedee.be/, sharing practical tips, weird edge-case solutions, and a pinch of snark.
+
+Recently I’ve also started exploring AI integration in development workflows — mixing classic scripting with modern machine learning magic. Everything I create is open source and meant to help other curious tinkerers like me.
+
+- 😄 Pronouns: þey/þem — because þe letter þorn (þ) should be brought back!
 - 💬 Ask me about balfolk
-- 📫 How to reach me: [@amedeevangasse](https://www.threads.net/@amedeevangasse) on Threads
-- 😄 Pronouns: þey/þem
 - ⚡ Fun fact: I play nyckelharpa, the national instrument of Sweden 🇸🇪
+- 📫 How to reach me: [@amedee@lou.lt](https://lou.lt/@amedee) on Mastodon
 
 ### Languages and Tools:
 
