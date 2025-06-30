@@ -57,11 +57,11 @@ Recently I’ve also started exploring AI integration in development workflows �
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Help ons zoeken: drie mensen op zoek naar een warm huis in Gent](https://amedee.be/help-ons-zoeken-drie-mensen-op-zoek-naar-een-warm-huis-in-gent/)
+- [In Defense of the Em Dash — A Beautiful Line of Thought ✍️](https://amedee.be/in-defense-of-the-em-dash-a-beautiful-line-of-thought-%e2%9c%8d%ef%b8%8f/)
 - [Samenwonen in Gent? Wij starten een nieuwe cohousing en zoeken nog iemand!](https://amedee.be/samenwonen-in-gent-wij-starten-een-nieuwe-cohousing-en-zoeken-nog-iemand/)
 - [Looking for a housemate in Ghent – Join our new cohousing!](https://amedee.be/looking-for-a-housemate-in-ghent-join-our-new-cohousing/)
 - [📰 Featured by Sibelga and Passwerk: When Being Different Becomes a Strength](https://amedee.be/%f0%9f%93%b0-featured-by-sibelga-and-passwerk-when-being-different-becomes-a-strength/)
-- [🚗 French Road Trip to Balilas: From Ghent to Janzé with Strangers Turned Friends](https://amedee.be/%f0%9f%9a%97-french-road-trip-to-balilas-from-ghent-to-janze-with-strangers-turned-friends/)
-- [🎥 Automating Git Repository Visualizations with GitHub Actions and Gource](https://amedee.be/%f0%9f%8e%a5-automating-git-repository-visualizations-with-github-actions-and-gource/)
 <!-- BLOG-POST-LIST:END -->
 
 - [more blog posts...](https://amedee.be)
