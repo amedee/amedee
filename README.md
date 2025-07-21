@@ -57,11 +57,11 @@ Recently I’ve also started exploring AI integration in development workflows �
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🧱 Let’s Get Hard &lpar;Links&rpar;: Deduplicating My Linux Filesystem with Hadori](https://amedee.be/%f0%9f%a7%b1-lets-get-hard-links-deduplicating-my-linux-filesystem-with-hadori/)
 - [🔍 How I Accidentally Discovered Power Query](https://amedee.be/%f0%9f%94%8d-how-i-accidentally-discovered-power-query/)
 - [In Defense of the Em Dash — A Beautiful Line of Thought ✍️](https://amedee.be/in-defense-of-the-em-dash-a-beautiful-line-of-thought-%e2%9c%8d%ef%b8%8f/)
 - [Help ons zoeken: drie mensen op zoek naar een warm huis in Gent](https://amedee.be/help-ons-zoeken-drie-mensen-op-zoek-naar-een-warm-huis-in-gent/)
 - [Samenwonen in Gent? Wij starten een nieuwe cohousing en zoeken nog iemand!](https://amedee.be/samenwonen-in-gent-wij-starten-een-nieuwe-cohousing-en-zoeken-nog-iemand/)
-- [📰 Featured by Sibelga and Passwerk: When Being Different Becomes a Strength](https://amedee.be/%f0%9f%93%b0-featured-by-sibelga-and-passwerk-when-being-different-becomes-a-strength/)
 <!-- BLOG-POST-LIST:END -->
 
 - [more blog posts...](https://amedee.be)
