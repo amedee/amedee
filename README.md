@@ -57,11 +57,11 @@ Recently I’ve also started exploring AI integration in development workflows �
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating 10 000 Random Files &amp; Analyzing Their Size Distribution: Because Why Not? 🧐💾](https://amedee.be/creating-10-000-random-files-analyzing-their-size-distribution-because-why-not-%f0%9f%a7%90%f0%9f%92%be/)
 - [How I Tamed Duplicity’s Buggy Versions — and Made Sure I Always Have a Backup 🛡️💾](https://amedee.be/how-i-tamed-duplicitys-buggy-versions-and-made-sure-i-always-have-a-backup-%f0%9f%9b%a1%ef%b8%8f%f0%9f%92%be/)
 - [🧱 Let’s Get Hard &lpar;Links&rpar;: Deduplicating My Linux Filesystem with Hadori](https://amedee.be/%f0%9f%a7%b1-lets-get-hard-links-deduplicating-my-linux-filesystem-with-hadori/)
 - [🔍 How I Accidentally Discovered Power Query](https://amedee.be/%f0%9f%94%8d-how-i-accidentally-discovered-power-query/)
 - [In Defense of the Em Dash — A Beautiful Line of Thought ✍️](https://amedee.be/in-defense-of-the-em-dash-a-beautiful-line-of-thought-%e2%9c%8d%ef%b8%8f/)
-- [Help ons zoeken: drie mensen op zoek naar een warm huis in Gent](https://amedee.be/help-ons-zoeken-drie-mensen-op-zoek-naar-een-warm-huis-in-gent/)
 <!-- BLOG-POST-LIST:END -->
 
 - [more blog posts...](https://amedee.be)
