@@ -57,11 +57,11 @@ Recently I’ve also started exploring AI integration in development workflows �
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🧹 Tidying Up After Myself: Automatically Deleting Old GitHub Issues](https://amedee.be/%f0%9f%a7%b9-tidying-up-after-myself-automatically-deleting-old-github-issues/)
 - [📦 Auto-growing disks in Vagrant: because 10 GB is never enough](https://amedee.be/%f0%9f%93%a6-auto-growing-disks-in-vagrant-because-10-gb-is-never-enough/)
 - [🧪 GitHub Actions and Environment Variables: Static vs. Dynamic Smackdown](https://amedee.be/%f0%9f%a7%aa-github-actions-and-environment-variables-static-vs-dynamic-smackdown/)
 - [Safer Commands with argv in Ansible: Pros, Cons, and Real Examples](https://amedee.be/safer-commands-with-argv-in-ansible-pros-cons-and-real-examples/)
 - [🎣 The Curious Case of the Beg Bounty Bait — or: Licence to Phish](https://amedee.be/%f0%9f%8e%a3-the-curious-case-of-the-beg-bounty-bait-or-licence-to-phish/)
-- [Creating 10 000 Random Files &amp; Analyzing Their Size Distribution: Because Why Not? 🧐💾](https://amedee.be/creating-10-000-random-files-analyzing-their-size-distribution-because-why-not-%f0%9f%a7%90%f0%9f%92%be/)
 <!-- BLOG-POST-LIST:END -->
 
 - [more blog posts...](https://amedee.be)
