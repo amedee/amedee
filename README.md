@@ -57,11 +57,11 @@ Recently I’ve also started exploring AI integration in development workflows �
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Resurrecting My Windows Partition After 4 Years 🖥️🎮](https://amedee.be/resurrecting-my-windows-partition-after-4-years-%f0%9f%96%a5%ef%b8%8f%f0%9f%8e%ae/)
 - [Dear Facebook,](https://amedee.be/dear-facebook/)
 - [🚀 Smarter CI with GitHub Actions Cache for Ansible &lpar;aka “Stop Downloading the Internet”&rpar;](https://amedee.be/%f0%9f%9a%80-smarter-ci-with-github-actions-cache-for-ansible-aka-stop-downloading-the-internet/)
 - [🧟‍♂️ Resurrecting a Dead Commit from the GitHub Graveyard](https://amedee.be/%f0%9f%a7%9f%e2%99%82%ef%b8%8f-resurrecting-a-dead-commit-from-the-github-graveyard/)
 - [🧹 Tidying Up After Myself: Automatically Deleting Old GitHub Issues](https://amedee.be/%f0%9f%a7%b9-tidying-up-after-myself-automatically-deleting-old-github-issues/)
-- [📦 Auto-growing disks in Vagrant: because 10 GB is never enough](https://amedee.be/%f0%9f%93%a6-auto-growing-disks-in-vagrant-because-10-gb-is-never-enough/)
 <!-- BLOG-POST-LIST:END -->
 
 - [more blog posts...](https://amedee.be)
