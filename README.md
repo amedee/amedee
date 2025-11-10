@@ -57,11 +57,11 @@ Recently I’ve also started exploring AI integration in development workflows �
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Phew, We Actually Moved! 🎉](https://amedee.be/phew-we-actually-moved-%f0%9f%8e%89/)
 - [👾 GRUB Invaders: Because Bootloaders Deserve to Have Fun Too](https://amedee.be/%f0%9f%91%be-grub-invaders-because-bootloaders-deserve-to-have-fun-too/)
 - [Verhuisdag Part 1: Dozen, Dégage en Deeg! 🍕🚐📦](https://amedee.be/verhuisdag-part-1-dozen-degage-en-deeg-%f0%9f%8d%95%f0%9f%9a%90%f0%9f%93%a6/)
 - [🎵 The Secret Soundtrack of GRUB: Making Your Bootloader Sing](https://amedee.be/%f0%9f%8e%b5-the-secret-soundtrack-of-grub-making-your-bootloader-sing/)
 - [🧼 Pre-commit: Because “oops, forgot to format” is so last year](https://amedee.be/%f0%9f%a7%bc-pre-commit-because-oops-forgot-to-format-is-so-last-year/)
-- [Resurrecting My Windows Partition After 4 Years 🖥️🎮](https://amedee.be/resurrecting-my-windows-partition-after-4-years-%f0%9f%96%a5%ef%b8%8f%f0%9f%8e%ae/)
 <!-- BLOG-POST-LIST:END -->
 
 - [more blog posts...](https://amedee.be)
