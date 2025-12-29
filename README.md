@@ -57,11 +57,11 @@ Recently I’ve also started exploring AI integration in development workflows �
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [sort -u vs sort | uniq: a tiny Linux fork in the road](https://amedee.be/sort-u-vs-sort-uniq-a-tiny-linux-fork-in-the-road/)
 - [25 Years of amedee.be – A Quarter Century Online 🎉](https://amedee.be/25-years-of-amedee-be-a-quarter-century-online-%f0%9f%8e%89/)
 - [A Field Guide to Dance Communities](https://amedee.be/a-field-guide-to-dance-communities/)
 - [🏡 Spreadsheets, Photos, and the Art of Moving Out](https://amedee.be/%f0%9f%8f%a1-spreadsheets-photos-and-the-art-of-moving-out/)
 - [Phew, We Actually Moved! 🎉](https://amedee.be/phew-we-actually-moved-%f0%9f%8e%89/)
-- [👾 GRUB Invaders: Because Bootloaders Deserve to Have Fun Too](https://amedee.be/%f0%9f%91%be-grub-invaders-because-bootloaders-deserve-to-have-fun-too/)
 <!-- BLOG-POST-LIST:END -->
 
 - [more blog posts...](https://amedee.be)
