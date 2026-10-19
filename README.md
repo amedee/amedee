@@ -57,11 +57,11 @@ Recently I’ve also started exploring AI integration in development workflows �
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fighting AI-generated comment spam on WordPress](https://amedee.be/fighting-ai-generated-comment-spam-on-wordpress/)
 - [Goodbye, Node.js — and Good Riddance to Dependency Hell](https://amedee.be/goodbye-node-js-and-good-riddance-to-dependency-hell/)
 - [Do I Really Need AI for Automatic Dependency Updates?](https://amedee.be/do-i-really-need-ai-for-automatic-dependency-updates/)
 - [Neurotypical Spectrum Disorder &lpar;NTSD&rpar;](https://amedee.be/neurotypical-spectrum-disorder-ntsd/)
 - [sort -u vs sort | uniq: a tiny Linux fork in the road](https://amedee.be/sort-u-vs-sort-uniq-a-tiny-linux-fork-in-the-road/)
-- [25 Years of amedee.be – A Quarter Century Online 🎉](https://amedee.be/25-years-of-amedee-be-a-quarter-century-online-%f0%9f%8e%89/)
 <!-- BLOG-POST-LIST:END -->
 
 - [more blog posts...](https://amedee.be)
